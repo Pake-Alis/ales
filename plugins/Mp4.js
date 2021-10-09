@@ -13,8 +13,8 @@ const Language = require('../language');
 const Lang = Language.getString('amazone');
 const YTV_DESC = "Youtube Video Downloader V2 ."
 const YT_NEED = "*need word!.*"
-const DWLOAD_VID = "*🎭Downloading Your Video...*"
-const YTV_UP = "*🚀Uploading Your Video...*"
+const DWLOAD_VID = "*ꜰᴀᴋᴇ ᴀʟɪꜱDownloading Your Video...*"
+const YTV_UP = "*ꜰᴀᴋᴇ ᴀʟɪꜱUploading Your Video...*"
 const NO_RESULT = "*🌀can't Find Anything...*"
 
 
