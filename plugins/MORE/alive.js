@@ -8,6 +8,6 @@ const {MessageType} = require('@adiwajshing/baileys');
 
 Asena.addCommand({pattern: 'im', fromMe: true}, (async (message, match) => {
 
-    await message.sendMessage("*Bang!! Bang!! My Bot is Neotro🎭🙇*");
+    await message.sendMessage("*Bang!! Bang!! My Bot is පේක් ඇලිස් *");
 
 }));
